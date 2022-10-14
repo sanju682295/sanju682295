@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanjeev Singh</h1>
-<h3 align="center">A passionate full stack wev developer from India</h3>
+<h3 align="center">A passionate full stack web developer from India</h3>
 <img align="right" alt="coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanju682295&label=Profile%20views&color=0e75b6&style=flat" alt="sanju682295" /> </p>
 
