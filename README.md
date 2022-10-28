@@ -3,8 +3,17 @@
 <img align="right" alt="coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanju682295&label=Profile%20views&color=0e75b6&style=flat" alt="sanju682295" /> </p>
 
+# 💫 About Me:
+<br>
+👯 I’m looking to collaborate on Good Tech Skills<br>
+🌱 I’m currently learning Full Stack Web Development<br>
+💬 Ask me about Coding...<br>
+👯 Interested in backend technologies....<br>
+👯 Self Motivated<br>
+⚡ Quick learner<br>
+💬 Ask me about Javascript, ReactJs, HTML, CSS, DSA<br>
 
-- 📫 How to reach me **sanju682295@gmail.com**
+📫 How to reach me **sanju682295@gmail.com**
 
 <p align="left">
 </p>
