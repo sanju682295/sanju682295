@@ -8,10 +8,9 @@
 👨‍💻 Take a look on my projects-> <a href="https://sanju682295.github.io/" target="_blank" rel="noreferrer">sanju682295.github.io</a><br>
 🌱 I’m currently learning Full Stack Web Development<br>
 💬 Ask me about Coding...<br>
-👯 Self Motivated<br>
 ⚡ Quick learner<br>
 💬 Ask me about Javascript, ReactJs, HTML, CSS, DSA<br>
-
+📝 Here is my Resume-><a href="https://drive.google.com/file/d/1cBdCxa0VSWFCFBgX80jegqT5tG0KOqjw/view" >Sanjeev Singh</a>
 📫 How to reach me **sanju682295@gmail.com**
 
 <p align="left">
