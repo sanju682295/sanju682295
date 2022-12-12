@@ -11,7 +11,7 @@
 ⚡ Quick learner<br>
 💬 Ask me about Javascript, ReactJs, HTML, CSS, DSA<br>
 📝 Here is my Resume-><a href="https://drive.google.com/file/d/1cBdCxa0VSWFCFBgX80jegqT5tG0KOqjw/view" >Sanjeev Singh</a><br>
-📫 How to reach me <a href="sanju682295@gmail.com" >sanju682295@gmail.com</a>
+📫 How to reach me-><a href="sanju682295@gmail.com" >sanju682295@gmail.com</a>
 
 <p align="left">
 </p>
