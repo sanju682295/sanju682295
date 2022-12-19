@@ -42,20 +42,33 @@ Technical Skills
 
 
 <br />
+<hr/>
+<h2>languge and tools</h2>
+<h5>HTML , CSS ,javascript , NPM,bootstrap,css animation,gitbash,React,Redux,chakra UI,TypeScript,NodeJs Express js, MongoDb</h5>
+<div>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/2560px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" height="50px" width="100px"/>  
+	<img src="https://camo.githubusercontent.com/787ffece7edbd4e287de44116c5671199926cc12f58770e05ee01655bce059b9/68747470733a2f2f73746f72652d696d616765732e732d6d6963726f736f66742e636f6d2f696d6167652f617070732e34353939312e31343435313137303836373435373435322e35313330636161622d333637382d346335372d613430342d3331366436366238393530652e30326631333932642d356166622d343231332d393461302d3636383737653539666365303f6d6f64653d7363616c6526713d393026683d33303026773d333030" height="50px" width="50px" />
+    <img src="https://notifystatus.io/images/parent/npmjs.png" height="50px" width="70px"/>
+    <img src="https://avatars.githubusercontent.com/u/2918581?s=280&v=4" height="50px" width="50px"/>
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/react-logo-png-transparent.png" height="50px" width="50px"/>
+   <img src="https://spyadav14699.github.io/portfolio/image/svgs/redux.svg" height="50px" width="50px"/>
+     <img src="https://spyadav14699.github.io/portfolio/image/svgs/nodejs.svg"  height="50px" width="50px"/>
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="50px" width="50px"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxawt2Qdg7ZHtebe59ru7seoCCnmYtyuvZzjyk90mYpzzLDpmjzqmkrZFOeJEKPPLFnok&usqp=CAU" height="50px" width="50px"/>
+  <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"  height="50px" width="50px"/>
+  <img src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png"  height="50px" width="50px"/>
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" height="50px" width="50px"/>
+   
+ 
+     
+</div> 
 
 
 
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left" margin="auto">
-	<a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-	</a> 
-	<a href="https://expressjs.com" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-	<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-	<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-</p>
+
 
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanju682295&theme=solarized_dark">
