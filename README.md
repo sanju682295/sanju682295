@@ -23,16 +23,16 @@ Aspiring 🧑🏻‍💻 MERN STACK developer with specialisation in JavaScript,
 * 100+ Hours Math & Logic
 * 5+ Projects
 
+<hr/>
 
-
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/sanjeev-singh-a8ab51244/" target="blank">
 LinkedIn	</a>
 </p>
 
 
-
+<hr/>
 <h2 align="left">
 Technical Skills
 </h2>
@@ -66,9 +66,14 @@ Technical Skills
 
 
 <br/>
+<hr/>
 
+<h2>My Github Stats</h2>
+<h3 align="left"> <img src="https://komarev.com/ghpvc/?username=sanju682295" alt="Sanjeev" /> </h3>
+  <a href="https://github.com/sanju682295?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/sanju682295?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+</p>
 
-<h2>Github Activity</h2>
 
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanju682295&theme=solarized_dark">
@@ -78,6 +83,8 @@ Technical Skills
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NAYANKUMAR21&theme=solarized_dark&utcOffset=8">
 	
 </p>
+<hr/>
 
+<a href="https://github.com/sanju682295" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanju682295&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <img width=100% title="Nemonet TYP" alt="Nemonet TYP"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
