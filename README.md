@@ -65,10 +65,10 @@ Technical Skills
 </div> 
 
 
+<br/>
 
 
-
-
+<h2>Github Activity</h2>
 
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanju682295&theme=solarized_dark">
