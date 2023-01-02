@@ -27,7 +27,7 @@ Aspiring 🧑🏻‍💻 MERN STACK developer with specialisation in JavaScript,
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/sanjeev-singh-a8ab51244/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="80px" />	</a>
+<a href="https://www.linkedin.com/in/sanjeev-singh-a8ab51244/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="60px" />	</a>
 </p>
 
 
