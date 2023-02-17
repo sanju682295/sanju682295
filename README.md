@@ -16,7 +16,7 @@
 
 Aspiring 🧑🏻‍💻 MERN STACK developer with specialisation in JavaScript, HTML, CSS , REACT , REST API , Git/GITHUB Object-Oriented design. Offering excellence in analytical decision making and articulate presenter with ability to communicate technical information with clear and concise manner. 450+ hours of coding and hands-on experience in developing website features 
 
-* 1200+ Hours Practical Coding 
+* 1600+ Hours Practical Coding 
 * 100+ Hours Soft Skill Development
 * 50+ Mini Projects
 * 300 Hours Data Structures & Algorithms
